@@ -11,3 +11,5 @@ elif coutry == 'China':
 		print('Yes')
 	else:
 		print('No')
+else: 		
+	print('You can only type China or USA')
